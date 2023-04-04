@@ -16,4 +16,5 @@ Data_Science Projects
 • Performed segmentation using the K-Means algorithm</br>
 • Evaluated the model's performance using the Silhouette score</br>
 • Identified three distinct customer segments: low-value customers, high-value customers, and bulk customers</br>
-  ![customer_Segmentation]([Customer Segments.png](https://github.com/Raseena-KP/Customer_Segmentation/blob/main/Customer%20Segments.png))
+
+  ![](https://github.com/Raseena-KP/portfolio/blob/main/images/Customer%20Segments.png)
