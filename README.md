@@ -8,3 +8,12 @@ Data_Science Projects
 •	Feature selection done using Lasso Regularizations and Tree based algorithm</br>
 •	Compared Linear, Decision Tree and Random Forest Regressor to reach the best model</br>
 
+# [Project 2: Customer Segmentation : Project Overview ](https://github.com/Raseena-KP/Customer_Segmentation/blob/main/Customer_Segmentation.ipynb)
+• Analyzed and segmented customers based on their purchase behavior</br>
+• Used transactional data from an online retailer based in the UK</br>
+• Engineered features from historical data</br>
+• Determined the optimal number of clusters using the Elbow Method</br>
+• Performed segmentation using the K-Means algorithm</br>
+• Evaluated the model's performance using the Silhouette score</br>
+• Identified three distinct customer segments: low-value customers, high-value customers, and bulk customers</br>
+  ![customer_Segmentation]([Customer Segments.png](https://github.com/Raseena-KP/Customer_Segmentation/blob/main/Customer%20Segments.png))
