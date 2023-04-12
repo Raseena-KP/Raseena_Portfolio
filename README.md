@@ -1,7 +1,7 @@
 # Raseena_Portfolio
 ## Data_Science Projects
 
-# [Project 1: Youtube Channel Analytics: Project Overview ](https://github.com/Raseena-KP/youtube_API/blob/main/Youtube_Channel_Analytics.ipynb)
+# [Project 1: Youtube Channel Analytics: Project Overview ](https://github.com/Raseena-KP/youtube_API_Analysis/blob/main/Youtube_Channel_Analytics.ipynb)
 -	Selected a YouTube channel for analysis
 -	Collected data by making YouTube API calls using the Request library
 -	Analyzed the data and added new features
